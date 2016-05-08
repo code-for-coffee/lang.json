@@ -1,0 +1,42 @@
+{
+  "German": {
+    "Contact Us": "KONTAKTIEREN SIE UNS",
+    "English": "Englisch",
+    "French": "Französisch",
+    "Spanish": "Spanisch",
+    "Dutch": "Holländisch",
+    "Portuguese": "Portugiesisch"
+  },
+  "Spanish": {
+    "Contact Us": "CONTÁCTENOS",
+    "English": "Inglés",
+    "French": "Francés",
+    "German": "Alemán",
+    "Dutch": "Holandés",
+    "Portuguese": "Portugués"
+  },
+  "French": {
+    "Contact Us": "POUR NOUS CONTACTER",
+    "English": "Anglais",
+    "German": "Allemand",
+    "Spanish": "Espagnol",
+    "Dutch": "Néerlandais",
+    "Portuguese": "Portugais"
+  },
+  "Dutch": {
+    "Contact Us": "Neem contact op met ons",
+    "English": "Engels",
+    "French": "Frans",
+    "Spanish": "Spaans",
+    "German": "Duits",
+    "Portuguese": "Portugees"
+  },
+  "Portuguese": {
+    "Contact Us": "Contate-nos",
+    "English": "Inglês",
+    "French": "francês",
+    "Spanish": "espanhol",
+    "Dutch": "Holandês",
+    "German": "alemão"
+  }
+}
