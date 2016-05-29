@@ -1,5 +1,6 @@
 {
   "German": {
+    "404": "Datei nicht gefunden",
     "Contact Us": "KONTAKTIEREN SIE UNS",
     "English": "Englisch",
     "French": "Französisch",
@@ -8,6 +9,7 @@
     "Portuguese": "Portugiesisch"
   },
   "Spanish": {
+    "404": "Archivo no encontrado",
     "Contact Us": "CONTÁCTENOS",
     "English": "Inglés",
     "French": "Francés",
@@ -16,6 +18,7 @@
     "Portuguese": "Portugués"
   },
   "French": {
+    "404": "Fichier non trouvé",
     "Contact Us": "POUR NOUS CONTACTER",
     "English": "Anglais",
     "German": "Allemand",
@@ -24,6 +27,7 @@
     "Portuguese": "Portugais"
   },
   "Dutch": {
+    "404": "Bestand niet gevonden",
     "Contact Us": "Neem contact op met ons",
     "English": "Engels",
     "French": "Frans",
@@ -32,6 +36,7 @@
     "Portuguese": "Portugees"
   },
   "Portuguese": {
+    "404": "Arquivo não encontrado",
     "Contact Us": "Contate-nos",
     "English": "Inglês",
     "French": "francês",
