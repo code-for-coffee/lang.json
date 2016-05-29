@@ -1,4 +1,13 @@
 {
+  "English": {
+    "404": "File not found",
+    "Contact Us": "Contact Us",
+    "German": "German",
+    "French": "French",
+    "Spanish": "Spanish",
+    "Dutch": "Dutch",
+    "Portuguese": "Portuguese"
+  },
   "German": {
     "404": "Datei nicht gefunden",
     "Contact Us": "KONTAKTIEREN SIE UNS",
